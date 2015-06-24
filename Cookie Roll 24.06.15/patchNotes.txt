@@ -1,0 +1,36 @@
+Build 1
+-
+No information available
+
+Build 2
+-
+No information available
+
+Build 3
+-
+Implemented Basic Mechanics (working score system, working health system, working pickups, working player scaling, working respawn system, pause state basics, game over basics)
+
+Build 4A
+-
+Reduced gravity scale to 7. 
+Reduced jump height to 20.
+
+Build 4B
+-
+Added additional spikes in order to reduce momentum
+
+Build 5
+-
+Added basic achievements, added mobile UI, added store 
+
+Build 5B
+-
+Changed spikes to instant death colliders
+
+Build 6 (Cookie Test, Cookie Test 2, Cookie Test 3, Cookie Test 4, Cookie Test 5, Cookie Test 6, Cookie Test 7, Cookie Test 8) 
+-
+Ported the game to Android, various bug fixes. 
+
+Build 6W 
+-
+Ported Android port to Windows because Vlad does not understand development process. Various things have broke in the process. 
