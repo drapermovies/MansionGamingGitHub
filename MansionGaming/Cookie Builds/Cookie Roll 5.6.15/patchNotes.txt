@@ -1,0 +1,16 @@
+Build 1
+-
+No information available
+
+Build 2
+-
+No information available
+
+Build 3
+-
+Implemented Basic Mechanics (working score system, working health system, working pickups, working player scaling, working respawn system, pause state basics, game over basics)
+
+Build 4A
+-
+Reduced gravity scale to 7. 
+Reduced jump height to 20.

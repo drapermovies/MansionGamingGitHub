@@ -1,0 +1,49 @@
+<B>News</B><br></center> 
+<div align="left">
+Latest News:<br>
+</div>
+<table style="width:100%">
+<p align="justify">
+  <tr>
+    <td><b><u>Lorem Ipsum</b></u></td>
+    <td><b><u>Lorem Ipsum</b></u></td> 
+    <td><b><u>Lorem Ipsum</b></u></td>
+	<td><b><u>Lorem Ipsum</b></u></td>
+  </tr>
+  <tr>
+    <td><img src="../Website/Images/Screenshot1.png" style="width:250px;height:150px;"></td>
+    <td><img src="../Website/Images/Screenshot1.png" style="width:250px;height:150px;"></td>
+    <td><img src="../Website/Images/Screenshot1.png" style="width:250px;height:150px;"></td>
+	<td><img src="../Website/Images/Screenshot1.png" style="width:250px;height:150px;"></td>
+  </tr>
+  <tr>
+    <td>Lorem ipsum dolor sit amet, </td>
+    <td>Lorem ipsum dolor sit amet, </td>
+	<td>Lorem ipsum dolor sit amet, </td>
+	<td>Lorem ipsum dolor sit amet, </td>
+  </tr>
+  <tr>
+    <td> consectetur adipiscing elit. </td>
+	<td> consectetur adipiscing elit. </td>
+	<td> consectetur adipiscing elit. </td>
+    <td> consectetur adipiscing elit. </td>
+  </tr>
+  <tr>
+    <td>Nulla rhoncus diam non lacus </td>
+	<td>Nulla rhoncus diam non lacus </td>
+	<td>Nulla rhoncus diam non lacus </td>
+	<td>Nulla rhoncus diam non lacus </td>
+  </tr>
+  <tr> 
+	<td>sagittis, id elementum purus</td>
+	<td>sagittis, id elementum purus</td>
+	<td>sagittis, id elementum purus</td>
+	<td>sagittis, id elementum purus</td>
+  </tr> 
+  <tr>
+    <td>consequat. <a href="url">Read More</a></td>
+	<td>consequat. <a href="url">Read More</a></td>
+	<td>consequat. <a href="url">Read More</a></td>
+	<td>consequat. <a href="url">Read More</a></td>
+  </tr>
+</table>

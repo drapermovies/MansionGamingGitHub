@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Cookie Jump.CSharp.Plugins", "UnityVS.Cookie Jump.CSharp.Plugins.csproj", "{9DC6BAC8-AC54-6124-69F5-1B8635D57937}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Cookie Jump.CSharp", "UnityVS.Cookie Jump.CSharp.csproj", "{A07BEA50-B989-4029-5571-4D1F1A015E24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Cookie Jump.CSharp.Editor", "UnityVS.Cookie Jump.CSharp.Editor.csproj", "{3E082E61-8D56-1B1D-2C9B-B05EAB8DDD34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC6BAC8-AC54-6124-69F5-1B8635D57937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC6BAC8-AC54-6124-69F5-1B8635D57937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC6BAC8-AC54-6124-69F5-1B8635D57937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC6BAC8-AC54-6124-69F5-1B8635D57937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A07BEA50-B989-4029-5571-4D1F1A015E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07BEA50-B989-4029-5571-4D1F1A015E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07BEA50-B989-4029-5571-4D1F1A015E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07BEA50-B989-4029-5571-4D1F1A015E24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E082E61-8D56-1B1D-2C9B-B05EAB8DDD34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E082E61-8D56-1B1D-2C9B-B05EAB8DDD34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E082E61-8D56-1B1D-2C9B-B05EAB8DDD34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E082E61-8D56-1B1D-2C9B-B05EAB8DDD34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
