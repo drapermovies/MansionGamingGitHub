@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Cookie Jump Project File 28th June 2015.CSharp.Plugins", "UnityVS.Cookie Jump Project File 28th June 2015.CSharp.Plugins.csproj", "{931BA614-37E3-C1DD-BFAB-278B4B2EF9C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Cookie Jump Project File 28th June 2015.CSharp", "UnityVS.Cookie Jump Project File 28th June 2015.CSharp.csproj", "{218F892D-5367-7FB1-4FBA-5E073D356123}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Cookie Jump Project File 28th June 2015.CSharp.Editor", "UnityVS.Cookie Jump Project File 28th June 2015.CSharp.Editor.csproj", "{CE14C176-FF12-A6AB-5964-7D1E982D1FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{931BA614-37E3-C1DD-BFAB-278B4B2EF9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931BA614-37E3-C1DD-BFAB-278B4B2EF9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931BA614-37E3-C1DD-BFAB-278B4B2EF9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931BA614-37E3-C1DD-BFAB-278B4B2EF9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{218F892D-5367-7FB1-4FBA-5E073D356123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218F892D-5367-7FB1-4FBA-5E073D356123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218F892D-5367-7FB1-4FBA-5E073D356123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218F892D-5367-7FB1-4FBA-5E073D356123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE14C176-FF12-A6AB-5964-7D1E982D1FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE14C176-FF12-A6AB-5964-7D1E982D1FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE14C176-FF12-A6AB-5964-7D1E982D1FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE14C176-FF12-A6AB-5964-7D1E982D1FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
